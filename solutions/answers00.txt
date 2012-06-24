@@ -1,0 +1,42 @@
+"""
+Lab_Python_00
+Solutions for Exercise 1.5
+"""
+
+## Qeustion 1
+
+#will output 5, because it is integer division
+print ">>> 11/2"
+print 11/2
+
+
+#will output 5.5, because it is float division
+print ">>> 11.0/2"
+print 11.0/2
+
+
+
+## Question 2
+
+print ">>> 3**27"
+print 3**27
+
+
+## Question 3
+
+print ">>> (134533 + 6889980 - 89849) ** 3"
+print (134533 + 6889980 - 89849) ** 3
+
+
+## Question 4
+
+print ">>> print \"The average time per meter is\", 7.9 / 45, \" kilometers per minute\""
+print "The average time per meter is", 7.9 / 45, " kilometers per minute"
+
+
+## Question 5
+
+print ">>> kilometer_to_miles = .621371"
+print ">>> ( (4.7*kilometer_to_miles)**2 + (9.4*kilometer_to_miles)**2 ) ** (.5)"
+print kilometer_to_miles = .621371
+print (4.7*kilometer_to_miles)**2 + (9.4*kilometer_to_miles)**2 ) ** (.5)
